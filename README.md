@@ -9,7 +9,7 @@ Our framework introduces an end-to-end architecture for ETF decision-making usin
 ## Repository Structure
 ## Dataset
 
-- **ETF Data**: Historical data (2024-2025) of the financial ETF (159931)
+- **ETF Data**: Historical data (2024-2025) of the financial ETF (159931)  https://q.stock.sohu.com/cn/159931/lshq.shtml
 - **Sentiment Data**: Textual data from: 东方财富、金融ETF吧、搜狐网、ETF最前线、QQ News等等
  
 ## Models & Implementation

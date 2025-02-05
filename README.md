@@ -1,10 +1,10 @@
 # Sentiment-Driven ETF Decision
 
-//This repository contains the implementation of "Sentiment-Driven ETF Decision: A Fully LLM-Centric Agent Framework with Dynamic Constraint Prompts", a novel approach for ETF price prediction that leverages LLMs and sentiment analysis.
+<!--This repository contains the implementation of "Sentiment-Driven ETF Decision: A Fully LLM-Centric Agent Framework with Dynamic Constraint Prompts", a novel approach for ETF price prediction that leverages LLMs and sentiment analysis. -->
 
 ## Overview
 
-Our framework introduces an end-to-end architecture for ETF decision-making using LLMs, incorporating sentiment analysis and dynamic weighting mechanisms. The framework achieved superior performance in both directional prediction (accuracy: 0.80) and continuous price prediction (MAE: 0.011).
+<!-- Our framework introduces an end-to-end architecture for ETF decision-making using LLMs, incorporating sentiment analysis and dynamic weighting mechanisms. The framework achieved superior performance in both directional prediction (accuracy: 0.80) and continuous price prediction (MAE: 0.011). -->
 
 ## Repository Structure
 ## Dataset

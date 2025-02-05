@@ -10,7 +10,7 @@ Our framework introduces an end-to-end architecture for ETF decision-making usin
 ## Dataset
 
 - **ETF Data**: Historical data (2024-2025) of the financial ETF (159931)
-- **Sentiment Data**: Textual data from:
+- **Sentiment Data**: Textual data from: 东方财富、金融ETF吧、搜狐网、ETF最前线、QQ News等等
  
 ## Models & Implementation
 

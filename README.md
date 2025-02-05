@@ -54,5 +54,5 @@ Our framework introduces an end-to-end architecture for ETF decision-making usin
 ### Implementation Details
 Our evaluation metrics implementation is available in `experiments/metrics.py`
 
-# prompts/deepseek_prompt.txt
+# prompts/prompt.txt
 We provide ready-to-use prompts that can achieve similar performance to our agent-based approach without requiring API access. These prompts are available in the  `prompts/prompt.txt`

@@ -61,10 +61,4 @@ Our evaluation metrics implementation is available in `experiments/metrics.py`
 We provide ready-to-use prompts that can achieve similar performance to our agent-based approach without requiring API access. These prompts are available in the  `prompts/prompt.txt`
 
 # Citation
-If you find this work helpful, please cite our paper:
-@article{sentiment_etf_2025,
-  title={Sentiment-Driven ETF Decision: A Fully LLM-Centric Agent Framework with Dynamic Constraint Prompts},
-  author={Zehan Tan},
-  journal={},
-  year={2025}
-}
+This repository contains the code implementation for our research paper (under review). Citation information will be updated upon publication.

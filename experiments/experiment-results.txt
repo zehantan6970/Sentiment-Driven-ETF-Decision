@@ -1,11 +1,20 @@
 ETF的收盘价真实值：
-2025-01-17的收盘价：1.763
-2025-01-20的收盘价：1.763
-2025-01-21的收盘价：1.766
-2025-01-22的收盘价：1.739
-2025-01-23的收盘价:   1.772
-2025-01-24的收盘价:   1.783
-2025-01-27的收盘价：1.776
+2025-01-17的真实收盘价：1.763
+2025-01-20的真实收盘价：1.763
+2025-01-21的真实收盘价：1.766
+2025-01-22的真实收盘价：1.739
+2025-01-23的真实收盘价:   1.772
+2025-01-24的真实收盘价:   1.783
+2025-01-27的真实收盘价：1.776
+2025-02-05的真实收盘价：1.756
+2025-02-06的真实收盘价：1.767 
+2025-02-07的真实收盘价：1.782
+2025-02-10的真实收盘价：1.787
+2025-02-11的真实收盘价：1.786 
+2025-02-12的真实收盘价：1.806 
+2025-02-13的真实收盘价：1.807
+2025-02-14的真实收盘价：1.810 
+2025-02-17的真实收盘价：1.813
 请注意没有2025-01-18和2025-01-19的收盘价数据，这两天是休息日。
 
 下面是预测值和LLM用的prompt。
@@ -99,3 +108,138 @@ kimi with sentiment：1.790
 Claude with sentiment: 1.777
 LSTM with sentiment: 1.831
 Ours: 1.778
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-05的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-05的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.778
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-06的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-06的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.768 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-07的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-07的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.782
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-10的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-10的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.794
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-11的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-11的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.775 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-12的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-12的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.782
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-13的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-13的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.812
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-14的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-14的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.808
+你是优秀的ETF基金经理，请根据附件提供的ETF数据，预测2025-02-17的收盘价。
+deepseek：
+Chatgpt 4o：
+doubao：
+kimi：
+Claude：
+LSTM: 
+你是优秀的ETF基金经理，请根据附件提供的ETF数据和情感数据，预测2025-02-17的收盘价。
+deepseek with sentiment：
+Chatgpt 4o with sentiment：
+doubao with sentiment：
+kimi with sentiment：
+Claude with sentiment: 
+LSTM with sentiment: 
+Ours: 1.816

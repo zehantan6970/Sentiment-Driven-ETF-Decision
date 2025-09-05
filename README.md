@@ -36,24 +36,6 @@
 -->
 ## Experimental Results
 
-### Directional Prediction Performance
-<!--
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|---------|-----------|
-| Our Framework | 0.80 | 0.88 | 0.75 | 0.76 |
-| LSTM | 0.60 | 0.30 | 0.50 | 0.37 |
-| LSTM+Sentiment | 0.60 | 0.30 | 0.50 | 0.37 |
-
-### Continuous Price Prediction Performance
-
-| Model | MAE | RMSE | MAPE (%) |
-|-------|-----|------|-----------|
-| Our Framework | 0.011 | 0.014 | 0.62 |
-| LSTM | 0.067 | 0.068 | 3.78 |
-| LSTM+Sentiment | 0.064 | 0.066 | 3.66 |
--->
-## Evaluation Metrics
-
 ### Implementation Details
 Our evaluation metrics implementation is available in `experiments/metrics.py`
 

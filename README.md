@@ -34,7 +34,7 @@
 - Kimi
 - Claude
 -->
-## Experimental Results
+## Experiments
 
 ### Implementation Details
 Our evaluation metrics implementation is available in `experiments/metrics.py`
